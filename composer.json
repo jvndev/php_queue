@@ -1,0 +1,7 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Jaco\\Datastructures\\": "/home/jaco/src/php/Queue/"
+        }
+    }
+}

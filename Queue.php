@@ -1,4 +1,6 @@
 <?php
+    namespace Jaco\Datastructures;
+
     class Queue {
         private $_data = [];
         private $_count = 0;
